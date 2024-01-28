@@ -2,15 +2,15 @@ import React from 'react';
 
 function Task5(props) {
     
-    // const slidbar = () => (
-    //     <ul>
-    //         {props.posts.map((post) => (
-    //             <li key={post.id}>
-    //                 {post.title}
-    //             </li>
-    //         ))}
-    //     </ul>
-    // );
+    const slidbar = () => (
+        <ul>
+            {props.posts.map((post) => (
+                <li key={post.id}>
+                    {post.title}
+                </li>
+            ))}
+        </ul>
+    );
 
     const content = props.posts.map((post) => (
         <div key={post.id}>
@@ -18,6 +18,7 @@ function Task5(props) {
             
             <p>{post.content}</p>
             <hr></hr>
+            
         </div>
     ));
 
