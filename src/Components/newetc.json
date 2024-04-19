@@ -1,0 +1,28 @@
+[
+    {"no":1,
+        "type":"Sports",
+        "name": "Haikyuu",
+        "Ratting":9
+    },
+    {"no":2,
+        "type":"movie",
+        "name": "Your Name",
+        "Ratting":9
+    },
+    {"no":3,
+        "type":"iseki",
+        "name": "tensie",
+        "Ratting":7
+    },
+    {"no":4,
+        "Type":"RomCom",
+        "name": "horimiya",
+        "Ratting":9
+    },
+    {"no":5,
+        "TYpe":"Adventure",
+        "name": "OnePiece",
+        "Ratting":10
+    }
+    
+]

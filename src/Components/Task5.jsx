@@ -33,7 +33,7 @@ function Task5(props) {
 
 
 
-export default function App() {
+export default function app() {
     const posts = [
         { id: "1", title: "hello world", content: "hello my name is tanyy" },
         { id: "2", title: "java", content: "it is a good language" },
