@@ -5,8 +5,7 @@ import Task1 from './Components/task1.jsx'
 import Task2 from './Components/Task2.jsx'
 import Tsk3 from './Components/Tsk3.jsx'
 import Tsk4 from './Components/Tsk4.jsx'
-
-import Login from './Components/Login.jsx'
+import Hooks  from './Components/Hooks.jsx'
 import ConditionalRendering from './Components/Task4.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
@@ -17,6 +16,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 {/* <Tsk3></Tsk3> */}
 {/* <<Tsk4></Tsk4> */}
 {/* <ConditionalRendering ></ConditionalRendering> */}
-<App></App>
+{/* <App></App> */}
+<Hooks></Hooks>
   </React.StrictMode>,
 )
